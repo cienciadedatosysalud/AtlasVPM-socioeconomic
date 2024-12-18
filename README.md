@@ -28,12 +28,11 @@ All analyses were performed using R Statistical Software (v4.3.2; R Core Team 20
 
 ## Results 
 
-- The vectorial map reconstructed PCAs (shapefile) can be found in folder 'outputs/1_outputs/';
+- [The vectorial map reconstructed PCAs (shapefile)](https://github.com/cienciadedatosysalud/AtlasVPM-socioeconomic/blob/main/outputs/1_outputs/new_PCA_ESP_4258_2022_all.shp) can be found in folder 'outputs/1_outputs/';
 
-- The CSV file named 'census_tracts_intersection_pca_point_on_surface_with_percent_2022_2020_after_corrected_with_indicators.csv', including the census tract information and corresponding PCAs can be found in folder 'outputs/2_outputs/';
+- [The CSV file](https://github.com/cienciadedatosysalud/AtlasVPM-socioeconomic/blob/main/outputs/2_outputs/census_tracts_intersection_pca_point_on_surface_with_percent_2022_2020_after_corrected_with_indicators.csv), including the census tract information and corresponding PCAs can be found in folder 'outputs/2_outputs/';
 
 - Different figures as a matter of illustration can be found in folder 'outputs/2_outputs/'.
-
 
 ## License
 
